@@ -8,3 +8,8 @@
 	url = https://github.com/cytomining/cytominer
 	shallow = true
 	registered = true
+[submodule "matric"]
+	path = matric
+	url = https://github.com/cytomining/matric
+	shallow = true
+	registered = true
