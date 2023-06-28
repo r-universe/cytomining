@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cytominer"]
 	path = cytominer
 	url = https://github.com/cytomining/cytominer
-	shallow = true
-	registered = true
 [submodule "matric"]
 	path = matric
 	url = https://github.com/cytomining/matric
-	shallow = true
-	registered = true
