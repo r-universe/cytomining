@@ -5,6 +5,3 @@
 [submodule "cytominer"]
 	path = cytominer
 	url = https://github.com/cytomining/cytominer
-[submodule "matric"]
-	path = matric
-	url = https://github.com/cytomining/matric
